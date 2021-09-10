@@ -1,4 +1,4 @@
 # book-monkey
 BookMonkey project
 
-## Auto: matthäus Famulla
+## Auto: Matthäus Famulla
